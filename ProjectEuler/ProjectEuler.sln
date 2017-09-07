@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler", "ProjectEuler\ProjectEuler.csproj", "{E7AED0A5-D629-481B-B74C-3FD5CCFD120A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestProductInSeries", "LargestProductInSeries\LargestProductInSeries.csproj", "{EE3A6F4E-6856-424F-A470-B1E74F23E7CF}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E7AED0A5-D629-481B-B74C-3FD5CCFD120A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7AED0A5-D629-481B-B74C-3FD5CCFD120A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7AED0A5-D629-481B-B74C-3FD5CCFD120A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7AED0A5-D629-481B-B74C-3FD5CCFD120A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EE3A6F4E-6856-424F-A470-B1E74F23E7CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EE3A6F4E-6856-424F-A470-B1E74F23E7CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE3A6F4E-6856-424F-A470-B1E74F23E7CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
