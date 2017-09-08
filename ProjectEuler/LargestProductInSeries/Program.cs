@@ -45,13 +45,5 @@ namespace LargestProductInSeries
                 Console.ReadLine();
             }
         }
-
-        private static char[] SplitString(string literal)
-        {
-            literal = literal.Replace("\n", "");
-            literal = literal.Replace("\t", "");
-            literal = literal.Replace("\r", "");
-            return literal.ToCharArray();
-        }
     }
 }
